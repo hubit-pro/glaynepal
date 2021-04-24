@@ -1,8 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\backend"
+    "\\assets",
+    "\\assets\\img"
   ],
-  "SelectedNode": "\\backend\\update.php",
+  "SelectedNode": "\\product.html",
   "PreviewInSolutionExplorer": false
 }
