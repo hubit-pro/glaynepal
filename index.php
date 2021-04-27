@@ -1,25 +1,13 @@
-
 <!DOCTYPE html>
 <html lang="en">
 
 <head>
-    <?php
-    include 'sharedpage/head.php';
-    ?>
+    <?php include 'sharedpage/head.php'; ?>
 </head>
-
 <body>
-<?php
-    include 'sharedpage/section.php';
-    ?>
- <?php
-    include 'sharedpage/navbar.php';
-    ?>
-   
-
-    
-
-    <!-- ======= Cta Section ======= -->
+<?php include 'sharedpage/section.php'; ?>
+ <?php include 'sharedpage/navbar.php'; ?>
+      <!-- ======= slider Section ======= -->
     <section id="hero">
         <div id="heroCarousel" class="carousel slide carousel-fade" data-ride="carousel">
 
@@ -40,9 +28,7 @@
                 </div>
 
                 <!-- Slide 2 -->
-                <div class="carousel-item" style="        background-image: url(assets/img/slide/slide-2.jpg);
-        background-size: 100% 100%;
-">
+                <div class="carousel-item" style="background-image: url(assets/img/slide/slide-2.jpg);background-size: 100% 100%;">
                     <div class="carousel-container">
                         <div class="carousel-content animate__animated animate__fadeInUp">
                             <h2>Glay : King of Luboil</h2>
@@ -53,9 +39,7 @@
                 </div>
 
                 <!-- Slide 3 -->
-                <div class="carousel-item" style="        background-image: url(assets/img/slide/slide-3.jpg);
-        background-size: 100% 100%;
-">
+                <div class="carousel-item" style="background-image: url(assets/img/slide/slide-3.jpg);background-size: 100% 100%;">
                     <div class="carousel-container">
                         <div class="carousel-content animate__animated animate__fadeInUp">
                             <h2>Miracle of G-LAY</h2>
@@ -80,8 +64,8 @@
             <ol class="carousel-indicators" id="hero-carousel-indicators"></ol>
 
         </div>
-    </section><!-- End Hero -->
-    <!-- ======= Cta Section ======= -->
+    </section>
+    <!-- ======= slider Section ======= -->
     <section id="cta" class="cta">
         <div class="container">
 
@@ -128,7 +112,7 @@
                                     <button type="submit" class="btn btn-primary">Submit</button>
                                 </form>
                             </div>
-                            
+
                         </div>
                     </div>
                 </div>
@@ -183,10 +167,6 @@
                     </div>
                 </div> <!-- End Col -->
 
-
-
-
-
             </div>
             <div class="clearfix"></div>
             <div class="row p-5">
@@ -206,16 +186,9 @@
 
                             Emission max 83% reduced,Output Max 20% and fuel efficiency max 14% improved,   Extend lifetime of engine oil to 2-3 times,Reduce noise and vibration,Power increased
 
-
-
-
                         </p>
                     </div>
                 </div> <!-- End Col -->
-
-
-
-
 
             </div>
         </div>
@@ -227,7 +200,6 @@
         <div class="row">
             <h4 class="text-center border-bottom border-primary " style="color:#f69422;margin-top:30px;margin-bottom:20px;">Why to use G-LAY </h4>
             <div class="col-lg-8">
-
 
                 <ul>
                     <br />
@@ -344,7 +316,6 @@
                     oxidation resistance. Life time of conventional oil needs to change every 5,000
                     9,000km run.
 
-
                     G-LAY extends the life time of the engine & all industrial oil maximum 3 times longer.
 
                 </div>
@@ -407,89 +378,11 @@
             </div>
         </div>
     </div>
-
     <!--FAQ end-->
     <!-- ======= Footer ======= -->
-    <!-- ======= Footer ======= -->
-    <footer id="footer">
-
-        <div class="footer-top">
-            <div class="container">
-                <div class="row">
-
-                    <div class="col-lg-3 col-md-6 footer-contact">
-                        <h3>G-LAY Nepal & Traders</h3>
-                        <p>
-                            Butwal-11 Devinagar <br>
-                            <strong>Phone:</strong> +977-9866587350<br>
-                            <strong>Email:</strong> info@glaynepal.com<br>
-                        </p>
-                    </div>
-
-                    <div class="col-lg-2 col-md-6 footer-links">
-                        <h4>Useful Links</h4>
-                        <ul>
-                            <li><i class="bx bx-chevron-right"></i> <a href="index.html">Home</a></li>
-                            <li><i class="bx bx-chevron-right"></i> <a href="about.html">About us</a></li>
-                            <li><i class="bx bx-chevron-right"></i> <a href="portfolio.html">Services</a></li>
-                            <li><i class="bx bx-chevron-right"></i> <a href="#">Terms of service</a></li>
-                            <li><i class="bx bx-chevron-right"></i> <a href="#">Privacy policy</a></li>
-                        </ul>
-                    </div>
-
-
-
-                    <div class="col-lg-4 col-md-6 footer-newsletter">
-                        <h4>Join Our Newsletter</h4>
-                        
-                        <form action="" method="post">
-                            <input type="email" name="email"><input type="submit" value="Subscribe">
-                        </form>
-                    </div>
-
-                </div>
-            </div>
-        </div>
-
-        <div class="container d-md-flex py-4">
-
-            <div class="mr-md-auto text-center text-md-left">
-                <div class="copyright">
-                    &copy; Copyright <strong><span>G-lay Nepal</span></strong>. All Rights Reserved
-                </div>
-                <div class="copyright">
-                    &copy; Design & Develop By <strong><span><a href="https://hubit.com.np/">HUB IT</a></span></strong>.
-                </div>
-
-            </div>
-            <div class="social-links text-center text-md-right pt-3 pt-md-0">
-                <a href="#" class="twitter"><i class="bx bxl-twitter"></i></a>
-                <a href="#" class="facebook"><i class="bx bxl-facebook"></i></a>
-                <a href="#" class="instagram"><i class="bx bxl-instagram"></i></a>
-                <a href="#" class="google-plus"><i class="bx bxl-skype"></i></a>
-                <a href="#" class="linkedin"><i class="bx bxl-linkedin"></i></a>
-            </div>
-        </div>
-    </footer><!-- End Footer -->
-
-
-
-    <a href="#" class="back-to-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short"></i></a>
-
-    <!-- Vendor JS Files -->
-    <script src="assets/vendor/aos/aos.js"></script>
-    <script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
-    <script src="assets/vendor/glightbox/js/glightbox.min.js"></script>
-    <script src="assets/vendor/isotope-layout/isotope.pkgd.min.js"></script>
-    <script src="assets/vendor/php-email-form/validate.js"></script>
-    <script src="assets/vendor/swiper/swiper-bundle.min.js"></script>
-    <script src="assets/vendor/waypoints/noframework.waypoints.js"></script>
-
-    <!-- Template Main JS File -->
-    <script src="assets/js/main.js"></script>
-    <script href="assets/css/style.css" rel="stylesheet"></script>
-
+     <?php include 'sharedpage/footer.php'; ?>
+    <!-- End Footer -->
+    <?php include 'sharedpage/scriptfooter.php'; ?>
 </body>
-
 </html>
 <!-- ======= Hero Section ======= -->
